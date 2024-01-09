@@ -1,4 +1,4 @@
-// server.js
+
 const express = require('express');
 const router = require('./Routes/product.route');
 const cors=require('cors');
