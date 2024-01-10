@@ -1,7 +1,6 @@
 # Knovator
 
-# Deployed Link => https://659d2ce89c6fd29e30b8d6cb--fantastic-pothos-761143.netlify.app/
-
+# Deployed Link => https://659e7069e7092fc706f240a0--inquisitive-mousse-491e3d.netlify.app/
 # For Start Backend==>
 ==> Nodemon index.js
 
